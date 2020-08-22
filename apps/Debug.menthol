@@ -3,3 +3,5 @@
 [1:choices](A:2,B,C:3)
 {2:Ending A}
 {3: Ending B,C}
+$appName = test
+>printf("Hello, world!");
